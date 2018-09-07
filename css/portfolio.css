@@ -3,13 +3,19 @@
   max-width: 95%;
   margin: auto;
 }
+
 h2{
   color:rgb(152, 221, 121);
 }
+
 img {
     width: 200px;
     border: 25px solid green;
     padding: 25px;
     margin: 25px;
     height: 200px;
+}
+
+p{
+  float: inherit;
 }
